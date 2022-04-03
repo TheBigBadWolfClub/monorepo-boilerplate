@@ -1,0 +1,6 @@
+/js/node_modules/
+/.idea/
+/.idea/*.*
+
+/js/js1.iml
+/js/.idea/
